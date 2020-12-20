@@ -6,7 +6,6 @@ I created it for convert file that is formatted like this:
 ```bash
 word1;synonym1;synonym2
 word2;synonym1
-etc.
 ```
 to Json format:
 ```json
@@ -24,7 +23,6 @@ to Json format:
             "synonym1"
         ]
     }
-	etc.
 ]
 ```
 
